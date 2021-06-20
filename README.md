@@ -26,7 +26,8 @@ For this deliverable we are asked to provide answers to the following questions:
      have on the depandent variable.  
 #### .Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?   
      This linear model does predict the prototypes reasonably well as it has an R-squared value is 0.7149,
-     which means it is correct approximateky 71% of the time.  
+     which means it is correct approximateky 71% of the time. 
+     ![](Deli1_image.png?raw=true)
 
 
 
