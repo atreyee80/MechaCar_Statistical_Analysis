@@ -66,13 +66,17 @@ Test3 (Lot3):
 ### Deliverable 4: Study Design: MechaCar vs Competition (Analysis)
 For this deliverable we are asked to provide answers to the following questions:  
 
-. What metric or metrics are you going to test? City and Highway fuel economy.  
+. What metric or metrics are you going to test?   
+   City and Highway fuel economy.  
 
-. What is the null hypothesis or alternative hypothesis? The null is that they all have the same fuel economy vs the alternative is that they are different.  
+. What is the null hypothesis or alternative hypothesis?   
+    The null is that they all have the same fuel economy vs the alternative is that they are different.  
 
-. What statistical test would you use to test the hypothesis? And why? An ANOVA test because it is a good way of testing the significance of the experimental         results.  
+. What statistical test would you use to test the hypothesis? And why?  
+    An ANOVA test because it is a good way of testing the significance of the experimental         results.  
 
-. What data is needed to run the statistical test? At least a population of 50-100 cars to get a good respresentation of all cars.
+. What data is needed to run the statistical test?   
+    At least a population of 50-100 cars to get a good respresentation of all cars.
 
 
 
