@@ -28,6 +28,11 @@ For this deliverable we are asked to provide answers to the following questions:
      This linear model does predict the prototypes reasonably well as it has an R-squared value is 0.7149,
      which means it is correct approximateky 71% of the time.   
    ![](Deli1_image.png?raw=true)
+### Deliverable 2:Summary Statistics on Suspension Coils
+1.Download the Suspension_Coil.csv file, and place it in the active directory for your R session.  
+2.In your MechaCarChallenge.RScript, import and read in the Suspension_Coil.csv file as a table.  
+3.Write an RScript that creates a total_summary dataframe using the summarize() function to get the mean, median, variance, and standard deviation of the suspension coil’s PSI column.  
+4.Write an RScript that creates a lot_summary dataframe using the group_by() and the summarize() functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column.     
 
 
 
