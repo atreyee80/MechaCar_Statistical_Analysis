@@ -46,7 +46,21 @@ Whether or not the lots meet the design specifications can be answered by lookin
 ### Deliverable 3: T-tests on Suspension Coils
 In your MechaCarChallenge.RScript, write an RScript using the t.test() function to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
 Next, write three more RScripts in your MechaCarChallenge.RScript using the t.test() function and its subset() argument to determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.  
-![](Deli3_image1.png?raw=true)
+![](Deli3_image1.png?raw=true).  
+
+All manufacturing lots(all cars):
+![](Deli3_image2.png?raw=true)  
+
+Test1 (Lot1):
+![](Deli3_image3.png?raw=true). 
+
+Test2 (Lot2):
+![](Deli3_image4.png?raw=true).
+
+Test3 (Lot3):
+![](Deli3_image4.png?raw=true). 
+
+
 
 
 
