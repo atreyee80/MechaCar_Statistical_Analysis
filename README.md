@@ -58,7 +58,7 @@ Test2 (Lot2):
 ![](Deli3_image4.png?raw=true).
 
 Test3 (Lot3):
-![](Deli3_image4.png?raw=true). 
+![](Deli3_image5.png?raw=true). 
 
 
 
