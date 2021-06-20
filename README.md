@@ -35,9 +35,9 @@ For this deliverable we are asked to provide answers to the following questions:
 4.Write an RScript that creates a lot_summary dataframe using the group_by() and the summarize() functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column.  
 
 ![](Deli2_image1.png?raw=true). 
-The Total_summary Dataframe is shown below. 
+The Total_summary Dataframe is shown below:   
 ![](total_summary.png?raw=true). 
-The Lot_summary Dataframe is  shown below
+The Lot_summary Dataframe is  shown below:  
 ![](lot_summary.png?raw=true)
  
 
