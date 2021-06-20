@@ -39,6 +39,9 @@ The Total_summary Dataframe is shown below:
 ![](total_summary.png?raw=true). 
 The Lot_summary Dataframe is  shown below:  
 ![](lot_summary.png?raw=true)
+
+### Summary Statistics on Suspension Coils (Analysis)
+Whether or not the lots meet the design specifications can be answered by looking at the variance as a total and individually and can be seen in both dataframes. As a whole, the total_summry table shows that they do with the variance of 76, which is within our tolerance of < 100. Individually, Lots 1 and 2 meet this requirement, however Lot 3 does not.
  
 
 
