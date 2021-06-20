@@ -36,9 +36,9 @@ For this deliverable we are asked to provide answers to the following questions:
 
 ![](Deli2_image1.png?raw=true). 
 The Total_summary Dataframe is shown below. 
-![](Total_summary.png?raw=true). 
+![](total_summary.png?raw=true). 
 The Lot_summary Dataframe is  shown below
-![](Lot_summary.png?raw=true)
+![](lot_summary.png?raw=true)
  
 
 
