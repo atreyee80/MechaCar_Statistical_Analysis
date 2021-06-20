@@ -44,8 +44,8 @@ The Lot_summary Dataframe is  shown below:
 Whether or not the lots meet the design specifications can be answered by looking at the variance as a total and individually and can be seen in both dataframes. As a whole, the total_summry table shows that they do with the variance of 76, which is within our tolerance of < 100. Individually, Lots 1 and 2 meet this requirement, however Lot 3 does not.
 
 ### Deliverable 3: T-tests on Suspension Coils
-In your MechaCarChallenge.RScript, write an RScript using the t.test() function to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
-Next, write three more RScripts in your MechaCarChallenge.RScript using the t.test() function and its subset() argument to determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.  
+1.In your MechaCarChallenge.RScript, write an RScript using the t.test() function to determine if the PSI across all manufacturing lots is statistically different   from the population mean of 1,500 pounds per square inch.  
+2.Next, write three more RScripts in your MechaCarChallenge.RScript using the t.test() function and its subset() argument to determine if the PSI for each     manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.  
 ![](Deli3_image1.png?raw=true).  
 
 All manufacturing lots(all cars):
