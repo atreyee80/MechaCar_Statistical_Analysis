@@ -25,7 +25,8 @@ For this deliverable we are asked to provide answers to the following questions:
      The slope is of the linear regression is not considered to be zero because of the effect the independent variables
      have on the depandent variable.  
 #### .Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?   
-     This linear model does predict the prototypes reasonably well as it has an R-squared value is 0.7149, which means it is correct approximateky 71% of the            time.  
+     This linear model does predict the prototypes reasonably well as it has an R-squared value is 0.7149,
+     which means it is correct approximateky 71% of the time.  
 
 
 
