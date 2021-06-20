@@ -32,7 +32,9 @@ For this deliverable we are asked to provide answers to the following questions:
 1.Download the Suspension_Coil.csv file, and place it in the active directory for your R session.  
 2.In your MechaCarChallenge.RScript, import and read in the Suspension_Coil.csv file as a table.  
 3.Write an RScript that creates a total_summary dataframe using the summarize() function to get the mean, median, variance, and standard deviation of the suspension coil’s PSI column.  
-4.Write an RScript that creates a lot_summary dataframe using the group_by() and the summarize() functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column.     
+4.Write an RScript that creates a lot_summary dataframe using the group_by() and the summarize() functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column.  
+
+![](Deli2_image1.png?raw=true)
 
 
 
