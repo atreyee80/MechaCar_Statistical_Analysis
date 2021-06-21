@@ -41,7 +41,7 @@ The Lot_summary Dataframe is  shown below:
 ![](lot_summary.png?raw=true)
 
 ### Summary Statistics on Suspension Coils (Analysis)
-Whether or not the lots meet the design specifications can be answered by looking at the variance as a total and individually and can be seen in both dataframes. As a whole, the total_summry table shows that they do with the variance of 76, which is within our tolerance of < 100. Individually, Lots 1 and 2 meet this requirement, however Lot 3 does not.
+Whether or not the lots meet the design specifications can be answered by looking at the variance as a total and individually and can be seen in both dataframes. As a whole, the total_summary table shows that they do with the variance of 76, which is within our tolerance of < 100. Individually, Lots 1 and 2 meet this requirement, however Lot 3 does not.
 
 ### Deliverable 3: T-tests on Suspension Coils
 1.In your MechaCarChallenge.RScript, write an RScript using the t.test() function to determine if the PSI across all manufacturing lots is statistically different   from the population mean of 1,500 pounds per square inch.   
@@ -73,10 +73,10 @@ For this deliverable we are asked to provide answers to the following questions:
       The null is that they all have the same fuel economy vs the alternative is that they are different.  
 
 . What statistical test would you use to test the hypothesis? And why?  
-       An ANOVA test because it is a good way of testing the significance of the experimental         results.  
+       An ANOVA test because it is a good way of testing the significance of the experimental results.  
 
 . What data is needed to run the statistical test?   
-       At least a population of 50-100 cars to get a good respresentation of all cars.
+       At least a population of 50-100 cars to get a good representation of all cars.
 
 
 
